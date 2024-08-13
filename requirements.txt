@@ -2,4 +2,4 @@ SpeechRecognition
 pydub
 fpdf
 textstat
-spellchecker
+pyspellchecker
